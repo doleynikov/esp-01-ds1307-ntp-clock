@@ -1,4 +1,5 @@
 Components: i2c 1602 display, ds1307 rtc, ESP01, power supply GND +5v +3.3v
+
   Wire.begin(0, 2); //i2c init
   
   For now it is somekind of compilation of different examples from internet and arduino library.
