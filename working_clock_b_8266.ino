@@ -1,6 +1,6 @@
 
 // This is for compatibility with both arduino 1.0 and previous versions
-#include <Arduino.h>
+//#include <Arduino.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #define printByte(args)  write(args);
